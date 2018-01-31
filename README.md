@@ -1,7 +1,7 @@
 # SD3project
 Nombre app:
 Descripción:
-Etidades:
+Entidades:
 Servicio interno:
 Equipo:
 	Eleazar Francisco López Sosa
