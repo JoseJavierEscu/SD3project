@@ -5,7 +5,7 @@ Descripción:
 El usuario tiene un problema informático, entonces da parte al sistema a través de la web creando una incidencia que quedará registrada en el sistema. La incidencia debe de ser asignada a un técnico para que se encargue de solucionarla. El sistema podría implementar un algoritmo simple que gestione esta asignación a través de indicadores sencillos, cómo la carga de trabajo de los técnicos.
 El técnico generará un informe por cada incidencia que cierre
 
-Prueba Funcionalidad:
+Funcionalidad:
 
 El usuario pone una incidencia a través de un formulario web y la incidencia se registra
 La aplicación se comunica con el usuario para avisar de que la incidencia ha llegado correctamente
