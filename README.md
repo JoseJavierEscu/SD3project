@@ -1,5 +1,5 @@
 # SD3project
-Nombre app: Gestor de incidencias informáticas
+Prueba Nombre app: Gestor de incidencias informáticas
 Etidades: usuarios; incidencias; categoría de incidencia; informe; correo
 Descripción:
 El usuario tiene un problema informático, entonces da parte al sistema a través de la web creando una incidencia que quedará registrada en el sistema. La incidencia debe de ser asignada a un técnico para que se encargue de solucionarla. El sistema podría implementar un algoritmo simple que gestione esta asignación a través de indicadores sencillos, cómo la carga de trabajo de los técnicos.
