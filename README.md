@@ -1,4 +1,4 @@
-# SD3project
+# SD3project  edición de prueba
 Nombre app: Gestor de incidencias informáticas
 Etidades: usuarios; incidencias; categoría de incidencia; informe; correo
 Descripción:
